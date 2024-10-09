@@ -8,7 +8,7 @@ body{
 .footer {
     position: absolute;
     top: 90%;
-    left: 30%;
+    left: 43%;
     color: #95a5a6;
     font-size: 16px;
 }
@@ -317,7 +317,7 @@ body{
     max-width: 80px;
     max-height: 80px;
     left: 5%;
-    top: 76%;
+    top: 79.5%;
 }
 
 .disgusted-pic{
@@ -334,6 +334,6 @@ body{
     position: absolute;
     max-width: 90px;
     max-height: 95px;
-    left: 84.5%;
+    left: 81%;
     top: 75%;
 }
