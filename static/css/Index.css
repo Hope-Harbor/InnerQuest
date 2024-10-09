@@ -276,57 +276,64 @@ body{
 }
 
 .fearful-pic{
+    object-fit: cover;
     position: absolute;
-    width: 15%;
-    height: 15%;
+    max-width: 90px;
+    max-height: 90px;
     left: 17%;
     top: 40%;
 }
 
 .happy-pic{
+    object-fit: cover;
     position: absolute;
-    width: 15%;
-    height: 15%;
+    max-width: 90px;
+    max-height: 90px;
     left: 6%;
     top: 53%;
 }
 
 .angry-pic{
+    object-fit: cover;
     position: absolute;
-    width: 12%;
-    height: 12%;
+    max-width: 90px;
+    max-height: 90px;
     left: 37%;
     top: 53%;
 }
 
 .bad-pic{
+    object-fit: cover;
     position: absolute;
-    width: 10%;
-    height: 10%;
+    max-width: 90px;
+    max-height: 90px;
     left: 81%;
     top: 55%;
 }
 
 .surprised-pic{
+    object-fit: cover;
     position: absolute;
-    width: 10%;
-    height: 10%;
-    left: 6%;
+    max-width: 80px;
+    max-height: 80px;
+    left: 5%;
     top: 76%;
 }
 
 .disgusted-pic{
+    object-fit: cover;
     position: absolute;
-    width: 12%;
-    height: 12%;
+    max-width: 90px;
+    max-height: 90px;
     left: 43%;
     top: 79.5%;
 }
 
 .sad-pic{
+    object-fit: cover;
     position: absolute;
-    width: 11%;
-    height: 11%;
+    max-width: 90px;
+    max-height: 95px;
     left: 84.5%;
     top: 75%;
 }
