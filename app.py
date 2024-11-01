@@ -6,7 +6,7 @@ import usersQuestions as userq
 import random                                 
 import os
 
-genai.configure(api_key='AIzaSyDMG6KRWhCJO1yDk1okerJcBPm4pwlCwy0')
+genai.configure(api_key='AIzaSyAb7-wVIeQZQTLHLg1Hs1HGd-iew79n3lY')
 
 
 cagry_prompt = {}
